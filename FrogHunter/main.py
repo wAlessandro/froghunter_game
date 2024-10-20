@@ -1,7 +1,5 @@
 
 from tkinter import *
-from tkinter import font
-from objects import Background
 from assets import SPRITE
 import configs
 from time import sleep
